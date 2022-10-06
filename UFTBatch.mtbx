@@ -1,0 +1,6 @@
+<Mtbx>
+	<Test name ="UFTOneWithAzure" path="D:\Automation\UFToneAzureDevops\UFTOneWithAzure" 
+	reportPath="D:\UFTOneAzureDevops\UFTResult"></Test>
+	<Test name ="UFTOneWithAzure2" path="D:\Automation\UFToneAzureDevops\UFTOneWithAzure2" 
+	reportPath="D:\UFTOneAzureDevops\UFTResult"></Test>
+</Mtbx>
