@@ -1,0 +1,8 @@
+<Mtbx>
+    <Test name="sampleScript" path="D:\Automation\UFTOneBamboo\sampleScript">
+    <Parameter name="WhatToSearch" value="This is jenkins test 1" type="string"/>
+    </Test>    
+    <Test name="sampleScript" path="D:\Automation\UFTOneBamboo\sampleScript">
+    <Parameter name="WhatToSearch" value="This is jenkins test 2" type="string"/>
+    </Test>
+</Mtbx>
