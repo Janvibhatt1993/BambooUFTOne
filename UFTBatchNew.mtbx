@@ -1,4 +1,3 @@
 <Mtbx>
- <Test name="sampleScript" path="D:\Automation\UFTOneBamboo">
- </Test>
+ <Test name="sampleScript" path="D:\Automation\UFTOneBamboo" reportPath= "D:\Automation\UFTOneBamboo"> </Test>
 </Mtbx>
